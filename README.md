@@ -20,7 +20,7 @@ Now with 2.0.0 Update</br>
 
 # ** Screenshots **
 
-<img src="https://user-images.githubusercontent.com/88838071/188324396-61bc6582-43e6-4e31-b44f-3afaac4297db.png" width="300"> <img src="https://user-images.githubusercontent.com/88838071/188324501-32c4eaed-31bc-4574-b295-6acdfaf2d7cc.png" width="300"> 
+<img src="https://drive.google.com/file/d/1D_196MIEr5q1qv1Xs_mKWK5XFZthOr-Z/view" width="300"> <img src="https://user-images.githubusercontent.com/88838071/188324501-32c4eaed-31bc-4574-b295-6acdfaf2d7cc.png" width="300"> 
 
 <img src="https://user-images.githubusercontent.com/88838071/188324531-f7df0273-d8b3-4de2-af41-fee859d003ae.png" width="300"> <img src="https://user-images.githubusercontent.com/88838071/188324532-212cacda-d436-4864-b28f-f6c7d1c9841a.png" width="300"> 
 

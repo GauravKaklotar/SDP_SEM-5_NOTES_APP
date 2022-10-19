@@ -32,8 +32,6 @@ Now with 2.0.0 Update</br>
 
 ### - Add A Starting Screen And A Tutorial</br>
 
-### - Voice Notes</br>
-
 ### - Animations</br>
 
 ### - Merge Phone and Tablet View Or Rework The Code</br>
